@@ -1,0 +1,4 @@
+Problem Statement: Figure out best 11 from T20 World Cup
+Consideration: Team able to score 180 runs on average
+Team abble to defend 150 runs on an average
+
